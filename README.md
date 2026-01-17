@@ -49,5 +49,3 @@ Version Control: Git, GitHub
 👨‍💻 Author
 Baibhav Datta
 Java | Spring Boot | Backend Developer
-
-Modular service layer design
